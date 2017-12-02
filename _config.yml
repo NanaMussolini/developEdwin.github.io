@@ -4,7 +4,7 @@ email: developeredwin@gmail.com
 description: >
   Plantillas de Imagen Institucional para la Universidad de Guanajuato
 
-baseurl: "/docs" # the subpath of your site, e.g. /blog/
+baseurl: "./" # the subpath of your site, e.g. /blog/
 url: https://developedwin.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/developedwin/developedwin.github.io
 git_edit_address: 
