@@ -1,2 +1,1 @@
-# ImagenUG.github.io
-Repositorio de plantillas institucionales
+Imagen Institucional Universidad de Guanajuato
